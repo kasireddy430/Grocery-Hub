@@ -1,0 +1,143 @@
+product_id,product_name,product_description,product_currentprice,product_discount,product_actualprice,product_category,product_image,product_manufacturer,inventory,store_zipcode,rating
+1,"Sunflower Seed Raw","Carroway Seed",242.47,9,442,food,images/food/1.png,Aufderhar-Schoen,73,60601,5
+2,"Sauce - Salsa","Lamb - Sausage Casings",96.2,2,486,food,images/food/2.jpg,"Durgan and Sons",9,41687,5
+4,"Motts Apple Juice","Fresh Juice",151.89,9,282,food,images/food/4.jpg,"D'Amore LLC",85,60235,5
+5,"Trout - Rainbow, Fresh","Sun - Dried Tomatoes",264.25,9,438,food,images/food/5.jpg,Treutel-Baumbach,53,85236,5
+6,"Lamb - Rack","Compound - Orange",103.54,1,314,food,images/food/6.webp,Braun-Hansen,56,49652,5
+7,"Wine - Acient Coast Caberne","Beans - Black Bean, Canned",441.62,2,351,food,images/food/7.jpg,"Wilkinson LLC",43,57463,5
+8,Gherkin,Fresh,32.76,9,131,food,images/food/8.jpg,"Lind and Sons",30,60648,4
+9,"Crab - Claws, Snow 16 - 24","Mikes Hard Lemonade",259.66,4,453,food,images/food/9.jpg,"Smitham Group",57,57964,4
+10,"Oil - Olive, Extra Virgin",Tumeric,57.23,1,109,food,images/food/10.png,Koss-Dare,14,46554,4
+11,"Tea - Jasmin Green","Beer - Sleemans Honey Brown",422.12,7,171,food,images/food/11.jpg,"Schneider, Becker and Zieme",61,82066,4
+12,"Shrimp - 16/20, Peeled Deviened","Chervil - Fresh",351.24,0,151,food,images/food/12.jpg,"Runte and Sons",38,54732,4
+13,"Pike - Frozen Fillet","Sprite - 355 Ml",311.17,3,448,food,images/food/13.jpg,"Osinski Group",84,95048,4
+14,"Shrimp - 16/20, Peeled Deviened","Juice - Tomato, 48 Oz",0.96,7,417,food,images/food/14.jpg,"Friesen LLC",82,39410,4
+15,"Petite Baguette","Wine - Beaujolais Villages",122.17,2,151,food,images/food/15.webp,"Schumm, Rodriguez and Hansen",62,47635,4
+16,"Bar Special K","Sugar Thermometer",104.8,8,348,food,images/food/16.jpg,"Nicolas Group",51,14270,4
+17,"Squid U5 - Thailand","Cake Slab",181.6,1,199,food,images/food/17.jpg,"Koss, Gottlieb and Brekke",10,67137,4
+18,"Eggplant - Asian",Fresh,31.06,6,51,food,images/food/18.jpg,Cole-Brekke,64,63541,4
+19,"Beer - Creemore","Sugar - Brown, Individual",94.34,6,94,food,images/food/19.jpg,Reichert-Walsh,53,78541,4
+20,"Lettuce - Radicchio","Mushroom Morel Fresh",60.03,8,132,food,images/food/20.jpg,"Greenfelder and Sons",80,16222,3
+21,"Extract Vanilla Pure","Salt - Seasoned",83.22,0,423,food,images/food/21.jpg,Carter-Wisoky,59,75657,3
+22,"Steampan - Foil","Pork - Ham Hocks - Smoked",115.69,8,380,food,images/food/22.jpg,Harber-Hintz,5,68425,3
+23,"Pop - Club Soda Can","Seedlings - Clamshell",89.54,8,53,food,images/food/23.jpg,"Sauer and Sons",53,52551,3
+24,"Mix - Cappucino Cocktail","Phyllo Dough",439.22,6,361,food,images/food/24.jpg,Rosenbaum-Turcotte,83,87452,3
+25,"Pepper - Chipotle, Canned",Spicy,68.51,8,199,food,images/food/25.png,Romaguera-Rosenbaum,97,86659,3
+26,"Crab - Claws, 26 - 30","Liquid Aminios Acid - Braggs",81.38,6,399,food,images/food/26.jpg,Herzog-Mohr,73,24129,3
+27,"Pork - European Side Bacon","Pork - Backfat",160.98,9,61,food,images/food/27.jpg,"Wuckert, Cruickshank and Buckridge",65,74562,3
+28,Beets,"Juice - Orange 1.89l",331.33,0,91,food,images/food/28.jpg,"Greenfelder, Stanton and Cartwright",19,50733,3
+29,"Bread - Triangle White","Cheese - Parmesan Cubes",240.09,4,323,food,images/food/29.jpg,"Jenkins Group",17,64396,3
+30,"Cabbage - Red","Wine - Periguita Fonseca",256.67,7,148,food,images/food/30.jpg,"Bosco, O'Connell and Swaniawski",54,98273,3
+145,"Easy Off","Oven Cleaner",12,4,12,household,/images/household/30.jpg,"Nikolaus, Daniel and Glover",53,12578,5
+31,Runa,"Organic Clean Energy Drink",73.35,0,74,beverages,images/beverages/1.jpg,"Bernier, D'Amore and Gutmann",50,54897,5
+32,"Ice Mountain",Wine,109.07,6,138,beverages,images/beverages/2.webp,"Parker, Johnson and Lehner",18,74698,3
+33,Gatorade,"Sports Drink",20.69,2,27,beverages,images/beverages/3.jpg,"Wisozk, Hayes and Barton",17,89665,4
+34,V8,"Energy Drink",134.28,7,170,beverages,images/beverages/4.jpg,"Bartoletti LLC",79,74523,4
+36,Beer,"Camerons Cream Ale",198.79,3,224,beverages,images/beverages/6.png,"Boehm Inc",92,85412,4
+37,Izze,"Sparkling Juice",197.25,7,249,beverages,images/beverages/7.webp,"Donnelly and Sons",13,25416,4
+38,"Bai Bubbles","Sparkling Pineapple Water",121.24,7,158,beverages,images/beverages/8.jpg,"Mante Group",5,35243,4
+39,Bubbly,"Sparkling Water",90.49,1,95,beverages,images/beverages/9.jpg,"Hudson, Wisozk and King",88,3016,4
+41,Reign,"Total Body Fuel",71.8,3,136,beverages,images/beverages/11.jpg,"Franecki Group",22,70593,3
+42,Bodyarmor,"Sports Drink",21.99,1,97,beverages,images/beverages/12.jpg,VonRueden-Haag,12,74698,3
+43,"Core Power","Elite High Protein Shakes",55,3,60,beverages,images/beverages/13.jpg,"Champlin, Hayes and Corkery",85,4446,3
+44,Monster,"Energy Drink",101,3,128,beverages,images/beverages/14.jpg,"Stiedemann, Ratke and McKenzie",73,27095,3
+45,Rockstar,"Energy Drink",118.08,5,133,beverages,images/beverages/15.webp,Grant-Batz,9,45896,3
+46,Redbull,"Energy Drink",61.25,1,68,beverages,images/beverages/16.jpg,Maggio-Gutkowski,45,12377,3
+47,Milk,"Whole Cow Milk",199.73,5,266,beverages,images/beverages/17.png,"Carter, Gibson and Pfannerstill",82,35214,5
+48,Vitacoco,"Pressed Coconut Water",88.51,7,153,beverages,images/beverages/18.webp,"McKenzie, Kling and Nolan",41,85423,5
+49,Cherry,"Carbonated Water",174.66,5,199,beverages,images/beverages/19.jpg,"Fisher, Wunsch and Beer",59,39804,5
+50,Perrier,"Carbonated Mineral Water",91.55,1,110,beverages,images/beverages/20.jpg,"Bednar, Krajcik and Becker",18,36528,5
+51,Celsius,"Sparkling Orange Fitness Drink",66.35,1,75,beverages,images/beverages/21.jpg,"Funk, Wehner and Gutmann",99,65489,5
+52,Bang,"Energy Drink",21.14,8,45,beverages,images/beverages/22.jpg,"Christiansen, Ryan and Vandervort",99,59878,5
+53,Alo,"Aloe Vera Juice Drink",30.34,3,48,beverages,images/beverages/23.jpg,Sanford-O'Kon,61,39630,5
+54,Fairlife,"Protein Milkshake",44.14,4,75,beverages,images/beverages/24.jpg,Blanda-Blick,48,25489,5
+55,Pureleaf,"Sweet Tea",152.89,7,132,beverages,images/beverages/25.jpg,"Roob LLC",6,54879,5
+56,Starbucks,"Doubleshot Energy Coffee",25.92,1,31,beverages,images/beverages/26.jpg,Welch-Sporer,40,56987,5
+57,"Touraine Azay Le Rideau",Wine,152.1,7,198,beverages,images/beverages/27.jpg,Hills-Sauer,77,65874,5
+58,Bolt24,"Energy Drink",46.31,0,46,beverages,images/beverages/28.jpg,Mante-Spinka,23,56412,5
+59,Spellagrino,"Cream Soda",187.82,5,248,beverages,images/beverages/29.jpg,"Pagac, Walsh and Friesen",77,84207,4
+60,Acure,"Cleansing Gel",33.35,0,34,bcb,images/bcb/1.jpg,"Parker, Johnson and Lehner",50,54897,4
+61,Bonef,"Liquid Soap",11.07,6,20,bcb,images/bcb/2.webp," Hayes",18,74698,5
+62,Pacifica,Perfume,11.69,2,17,bcb,images/bcb/3.webp,"Wisozk, Hayes and Barton",17,89665,3
+63,Nemat,Perfume,54.28,7,90,bcb,images/bcb/4.webp,"Bartoletti LLC",79,74523,2
+64,Acure,"Eye Cream",17.38,3,24,bcb,images/bcb/5.jpg,Pagac-Ryan,74,68300,1
+65,Heritage,"Rose Water Spray",8.79,3,15,bcb,images/bcb/6.jpg,"Boehm Inc",92,85412,4
+66,Alba,"Aloe Vera Gel",19.25,7,25,bcb,images/bcb/7.jpg,"Donnelly and Sons",13,25416,4
+67,Badger,"Sun Screen",13.24,7,26,bcb,images/bcb/8.jpg,"Mante Group",5,35243,4
+68,Hemp,"Lip Balm",8.49,1,9,bcb,images/bcb/9.jpg,"Hudson, Wisozk and King",88,3016,4
+69,Tweezerman,Tweezers,6.8,3,12,bcb,images/bcb/11.jpg,"Franecki Group",22,70593,5
+70,Andalou,"Shaving Cream",7.99,1,9,bcb,images/bcb/12.webp,VonRueden-Haag,12,74698,5
+71,Evolve,"Detangle Brush",7.22,3,11,bcb,images/bcb/13.jpg,"Champlin, Hayes and Corkery",85,4446,5
+72,Chatto,"Hair Loss Repair Creme",33.57,3,48,bcb,images/bcb/14.jpg,"Stiedemann, Ratke and McKenzie",73,27095,5
+73,Chatto,Shampoo,20.08,5,43,bcb,images/bcb/15.jpg,Grant-Batz,9,45896,5
+74,Giovanni,"Tea Tree Shampoo",4.9,1,5,bcb,images/bcb/16.webp,Maggio-Gutkowski,45,12377,5
+75,Alaffia,"Bar Soap",8.73,0,9,bcb,images/bcb/17.jpg,"Carter, Gibson and Pfannerstill",82,35214,5
+76,Accure,"Hydrating Gel",12.51,7,43,bcb,images/bcb/18.jpg,"McKenzie, Kling and Nolan",41,85423,5
+77,Mineral,Eyeliner,6.49,5,15,bcb,images/bcb/19.jpg,"Fisher, Wunsch and Beer",59,39804,5
+78,"Burt's Bee","Moisturizing Lip Care",4.55,0,5,bcb,images/bcb/20.jpg,"Bednar, Krajcik and Becker",18,36528,2
+79,"Hurts Dee","Lip Balm",4.35,1,5,bcb,images/bcb/21.webp,"Funk, Wehner and Gutmann",99,65489,2
+80,"Alba Botanica","Baby Shampoo",31.14,8,55,bcb,images/bcb/22.jpg,"Christiansen, Ryan and Vandervort",99,59878,2
+81,Verta,Sunscreen,5.34,1,6,bcb,images/bcb/23.jpg,Sanford-O'Kon,61,39630,2
+82,Pacifica,"Hoilday Gift Set",8.14,4,75,bcb,images/bcb/24.webp,Blanda-Blick,48,25489,2
+83,Evenhealy,"Oil and Water Skin Care Set",42.89,1,47,bcb,images/bcb/25.webp,"Roob LLC",6,54879,2
+84,MyChelle,"Sun Shield Clear Spray",12.92,1,15,bcb,images/bcb/26.webp,Welch-Sporer,40,56987,2
+85,Andalou,"Natural Face Lotion",13.1,7,18,bcb,images/bcb/27.jpg,Hills-Sauer,77,65874,2
+86,Derma-E,"Antiwrinkle Cream",16.1,0,16,bcb,images/bcb/28.jpg,Mante-Spinka,23,56412,2
+87,"Cocokind Mymatcha","Moisture Stick",9.99,0,10,bcb,images/bcb/29.jpg,"Pagac, Walsh and Friesen",77,84207,2
+88,"Tree Hut","Sugar Scrub Tropical Mango",43.35,0,44,pchb,images/pchb/1.jpg,"Bernier, D'Amore and Gutmann",50,54897,5
+89,"Brown Sugar","Body Scrub",119.07,6,148,pchb,images/pchb/2.jpg,"Parker, Johnson and Lehner",18,74698,5
+90,Biotin,"Skin Glow",22.69,2,29,pchb,images/pchb/3.webp,"Wisozk, Hayes and Barton",17,89665,5
+91,"B Complex",Vitamins,34.28,7,70,pchb,images/pchb/4.jpg,"Bartoletti LLC",79,74523,5
+92,"Cacy Lavender",Hydrosol,47.38,3,64,pchb,images/pchb/5.webp,Pagac-Ryan,74,68300,5
+93,"Zumu Oil","Massage and Body Oil",98.79,3,124,pchb,images/pchb/6.jpg,"Boehm Inc",92,85412,5
+94,Galma,"Massage Roller",19.25,7,25,pchb,images/pchb/7.jpg,"Donnelly and Sons",13,25416,4
+95,Orgain,"Sport Recovery",131.24,7,159,pchb,images/pchb/8.jpg,"Mante Group",5,35243,4
+96,Focusaid,"Energy Blend",80.49,1,85,pchb,images/pchb/9.jpg,"Hudson, Wisozk and King",88,3016,4
+97,Navitas,"Superfood Power Snack",61.8,3,126,pchb,images/pchb/11.jpg,"Franecki Group",22,70593,4
+98,Rxbar,"Protein Bar",22.99,1,37,pchb,images/pchb/12.webp,VonRueden-Haag,12,74698,4
+99,Folly,"Nutrition Protein Shakes",62,3,70,pchb,images/pchb/13.webp,"Champlin, Hayes and Corkery",85,4446,4
+100,Gercky,"Band Aid",12,3,18,pchb,images/pchb/14.webp,"Stiedemann, Ratke and McKenzie",73,27095,4
+101,Phantom,"Insect Repellant",128.08,5,143,pchb,images/pchb/15.jpg,Grant-Batz,9,45896,4
+102,Burme,"Scar Gel Impulse",51.25,1,58,pchb,images/pchb/16.jpg,Maggio-Gutkowski,45,12377,4
+103,Cardon,"Baby Wipes",189.73,5,256,pchb,images/pchb/17.jpg,"Carter, Gibson and Pfannerstill",82,35214,4
+104,Foxly,Probiotics,78.51,7,143,pchb,images/pchb/18.webp,"McKenzie, Kling and Nolan",41,85423,4
+105,Derora,"Organic Prunes",7.89,5,15,pchb,images/pchb/19.webp,"Fisher, Wunsch and Beer",59,39804,4
+106,Toms,"Kids Toothpaste",9.55,8,20,pchb,images/pchb/20.jpg,"Bednar, Krajcik and Becker",18,36528,4
+107,"Burts Bees","Lip Balm",64.35,1,73,pchb,images/pchb/21.jpg,"Funk, Wehner and Gutmann",99,65489,4
+108,Doper,"Baby Shampoo",31.14,8,55,pchb,images/pchb/22.jpg,"Christiansen, Ryan and Vandervort",99,59878,4
+109,Solo,"Red Superfood",45.34,3,68,pchb,images/pchb/23.webp,Sanford-O'Kon,61,39630,4
+110,Bonad,"Cynacobalamine Tablets",8.14,4,75,pchb,images/pchb/24.jpg,Blanda-Blick,48,25489,4
+111,GNC,"Alpha Lipoic Acid",122.1,0,122,pchb,images/pchb/25.jpg,"Roob LLC",6,54879,4
+112,ON,"Amino Acid",35.92,1,41,pchb,images/pchb/26.jpg,Welch-Sporer,40,56987,4
+113,Alive,"Calcium Chews",132.1,7,178,pchb,images/pchb/27.jpg,Hills-Sauer,77,65874,4
+114,"New Rythum",Probiotics,167.1,0,167,pchb,images/pchb/28.jpg,Mante-Spinka,23,56412,4
+115,Epsoak,"Epsom Salt",2.5,0,3,pchb,images/pchb/29.webp,"Pagac, Walsh and Friesen",77,84207,4
+116,"Mop and Glot","Floor Cleaner",7.35,0,8,household,http://dummyimage.com/159x107.bmp/5fa2dd/ffffff,"Bernier, D'Amore and Gutmann",50,58469,5
+117,Persil,"Laundry Detergent",22,0,22,household,/images/household/2.jpg,"Parker, Johnson and Lehner",18,84523,4
+118,"Dawn Ultra","Dishwashing Liquid",15,2,15,household,/images/household/3.jpg,"Wisozk, Hayes and Barton",17,89665,4
+119,"Meyers Clean Day","Multi - Surface, Everyday Cleaner",12,0,12,household,/images/household/4.jpg,Meyers,79,25469,4
+120,"Mr Clean","Magic Eraser",14,3,14,household,/images/household/5.jpg,Pagac-Ryan,74,68300,4
+121,Affresh,"Washing Machine Cleaner",11,3,11,household,/images/household/6.jpg,"Boehm Inc",92,45863,5
+122,Clorox,"Healthcare Bleach",14,5,13,household,/images/household/7.jpg,"Donnelly and Sons",13,24896,5
+123,Hefty,"Trash Bags",14.99,5,12,household,/images/household/8.jpg,"Mante Group",5,35243,5
+124,All,"Liquid Detergent",14.99,0,15,household,/images/household/9.webp,"Hudson, Wisozk and King",88,53016,5
+125,Lysol,"Automatic Toilet Bowl Cleaner",5.99,20,4,household,/images/household/10.png,"Wyman Group",43,54990,5
+126,Pledge,"Multisurface Spray",14.61,15,12,household,/images/household/11.jpg,"Franecki Group",22,79593,5
+127,"Tide Pods","Laundry Detergent Pacs",21.99,0,22,household,/images/household/12.jpg,VonRueden-Haag,12,65412,5
+128,Swiffer,Dusters,12,3,12,household,/images/household/13.jpg,"Champlin, Hayes and Corkery",85,44446,4
+129,Bounty,"Paper Towels",40,5,38,household,/images/household/14.jpg,"Stiedemann, Ratke and McKenzie",73,27495,4
+130,Puracy,"All Purpose Cleaner",14,5,13,household,/images/household/15.jpg,Grant-Batz,9,98565,4
+131,Glisten,"Disposer Care Freshner",4,1,4,household,/images/household/16.jpg,Maggio-Gutkowski,45,12387,4
+132,Swiffer,"Dry Sweeping Cloths",12,0,12,household,/images/household/17.webp,"Carter, Gibson and Pfannerstill",82,45236,4
+133,"Mr Clean","Deep Cleaning Spray",20,5,19,household,/images/household/18.jpg,"McKenzie, Kling and Nolan",41,84536,4
+134,Gonzo,Disinfectant,25,5,24,household,/images/household/19.jpg,"Fisher, Wunsch and Beer",59,39854,4
+136,Glad,"Trash Bags",15,1,15,household,/images/household/21.jpg,"Funk, Wehner and Gutmann",99,65241,5
+137,Weiman,"Cooktop Cleaner",14,4,13,household,/images/household/22.jpg,"Christiansen, Ryan and Vandervort",99,24587,5
+138,"Scotch Brite","Non Scratch Scrub Sponges",10,3,10,household,/images/household/23.jpg,Sanford-O'Kon,61,39639,5
+139,"Cascade Platinum","Dishwasher Pods",20,4,19,household,/images/household/24.jpg,Blanda-Blick,48,45896,5
+140,Febreeze,"Air Freshner",15,7,14,household,/images/household/25.jpg,"Roob LLC",6,36541,5
+141,"Seventh Generation","Kitchen Cleaner",70,10,63,household,/images/household/26.jpg,Welch-Sporer,40,75632,5
+142,Oxiclean,"Washingmachine Cleaner",12,0,12,household,/images/household/27.jpg,Hills-Sauer,77,15489,5
+143,"Simple Green","Industrial Cleaner",10,0,10,household,/images/household/28.jpg,Mante-Spinka,23,95478,5
+144,Windex,"Window Cleaner",5,5,5,household,/images/household/29.jpg,"Pagac, Walsh and Friesen",77,84268,5
+146,"Sunflower Seed Raw","Carroway Seed",241.47,9,441,food,images/food/1.png,Aufderhar-Schoen,73,60616,5
